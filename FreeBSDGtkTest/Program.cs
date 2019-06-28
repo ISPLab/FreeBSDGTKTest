@@ -12,10 +12,10 @@ namespace FreeBSDGtkTest
                 Window win = new Window("GtkStart FreeBSD window");
                 win.Resize(200, 200);
               //  Gtk.Button but = new Button();
-               // Label myLabel = new Label();
-               // myLabel.Text = "Gtk label special for freebsd";
+                Label myLabel = new Label();
+                myLabel.Text = "Gtk label special for freebsd";
                 //Add the label to the form
-               // win.Add(myLabel);
+                win.Add(myLabel);
                 win.ShowAll();
                 Application.Run();
             }
