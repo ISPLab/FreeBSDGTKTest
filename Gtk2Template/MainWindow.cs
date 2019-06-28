@@ -1,7 +1,7 @@
 ﻿using System;
 using Gtk;
 
-public partial class MainWindow : Gtk.Window
+/*public partial class MainWindow : Gtk.Window
 {
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
@@ -13,4 +13,4 @@ public partial class MainWindow : Gtk.Window
         Application.Quit();
         a.RetVal = true;
     }
-}
+}*/
