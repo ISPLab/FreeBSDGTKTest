@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeBSDGtkTest", "FreeBSDGt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gtk2Template", "Gtk2Template\Gtk2Template.csproj", "{CD31A326-74DA-4C2A-8BD8-95A92E1ECDF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtkSharp", "GtkSharp\GtkSharp.csproj", "{2A3EB8C2-49DA-454D-B711-8E8D4B96FB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtkStart", "GtkStart\GtkStart.csproj", "{66A3FF6E-B72F-448F-A551-4F93D66F931C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +23,13 @@ Global
 		{CD31A326-74DA-4C2A-8BD8-95A92E1ECDF2}.Debug|x86.Build.0 = Debug|x86
 		{CD31A326-74DA-4C2A-8BD8-95A92E1ECDF2}.Release|x86.ActiveCfg = Release|x86
 		{CD31A326-74DA-4C2A-8BD8-95A92E1ECDF2}.Release|x86.Build.0 = Release|x86
+		{2A3EB8C2-49DA-454D-B711-8E8D4B96FB0F}.Debug|x86.ActiveCfg = Debug|x86
+		{2A3EB8C2-49DA-454D-B711-8E8D4B96FB0F}.Debug|x86.Build.0 = Debug|x86
+		{2A3EB8C2-49DA-454D-B711-8E8D4B96FB0F}.Release|x86.ActiveCfg = Release|x86
+		{2A3EB8C2-49DA-454D-B711-8E8D4B96FB0F}.Release|x86.Build.0 = Release|x86
+		{66A3FF6E-B72F-448F-A551-4F93D66F931C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{66A3FF6E-B72F-448F-A551-4F93D66F931C}.Debug|x86.Build.0 = Debug|Any CPU
+		{66A3FF6E-B72F-448F-A551-4F93D66F931C}.Release|x86.ActiveCfg = Release|Any CPU
+		{66A3FF6E-B72F-448F-A551-4F93D66F931C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
